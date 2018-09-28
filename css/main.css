@@ -1,0 +1,60 @@
+body { 
+    background-color: rgb(100, 114, 141);
+}
+
+
+#content-wrapper { 
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+#hiro {
+    position: absolute;
+    z-index: 6;
+    left: 336px;
+    top: 216px;
+}
+
+#logo {
+    position: absolute;
+    z-index: 7;
+    left: 626px;
+    top: 569px;
+}
+
+#gogo {
+    position: absolute;
+    z-index: 5;
+    left: 246px;
+    top: 172px;
+}
+
+#josh {
+    position: absolute;
+    z-index: 1;
+    left: 525px;
+    top: 0px;
+}
+
+#honey {
+    position: absolute;
+    z-index: 5;
+    left: 767px;
+    top: 96px;
+}
+
+#wasabi {
+    position: absolute;
+    z-index: 3;
+    left: 0px;
+    top: 69px;
+}
+
+#baymax {
+    position: absolute;
+    z-index: 2;
+    left: 118px;
+    top: 16px;
+}
